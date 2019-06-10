@@ -1,5 +1,8 @@
 ### 项目名称
 {{name}}
+
+[![Downloads][downloads-image]][downloads-url]
+
 ### 项目介绍
 
 项目架构基于Typescript、koa2搭建，使得开发应用变得几乎跟java类似，强类型的使用使得我们能更方便的维护应用业务逻辑，编译阶段即可发现潜在的由于类型使用不正确而导致的应用错误
@@ -52,3 +55,6 @@ npm run dev
 
 - **由于项目接入了mysql，所以开发前请务必安装了mysql数据库，并且修改项目根目录下面的config/dev.js上面的数据库配置，以及在本地建立logs存放目录**
 - **node版本建议>=8.9.0**
+
+[downloads-image]: http://img.shields.io/npm/dm/co.svg?style=flat-square
+[downloads-url]: https://github.com/liya3719/node-ts-service-template
