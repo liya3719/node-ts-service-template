@@ -22,11 +22,9 @@
     "debug": "^2.6.3",
     "decompress": "^4.2.0",
     "decompress-targz": "^4.1.1",
-    "ejs": "^2.5.8",
     "electron": "^1.7.2",
     "fs-extra": "^5.0.0",
     "heibao-utils": "^0.0.6",
-    "jade": "^1.11.0",
     "jszip": "^3.1.5",
     "koa": "^2.2.0",
     "koa-bodyparser": "^3.2.0",
@@ -44,16 +42,12 @@
     "mysql": "^2.15.0",
     "node-dir": "^0.1.17",
     "node-mysql": "^0.4.2",
-    "pug": "^2.0.0-rc.1",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1",
     "reflect-metadata": "^0.1.10",
     "request": "^2.87.0",
     "routing-controllers": "^0.7.6",
     "string-format": "^0.5.0",
     "typedi": "^0.6.0",
-    "typescript": "^2.7.0",
-    "vue": "^2.5.16"
+    "typescript": "^2.7.0"
   },
   "engines": {
     "node": ">=8.9.0"
