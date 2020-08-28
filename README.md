@@ -55,6 +55,6 @@ npm run dev
 
 - **由于项目接入了mysql，所以开发前请务必安装了mysql数据库，并且修改项目根目录下面的config/dev.js上面的数据库配置，以及在本地建立logs存放目录**
 - **node版本建议>=8.9.0**
-
+- **如果koa是最新版本，需要手动安装http-errors模块**
 [downloads-image]: http://img.shields.io/npm/dm/co.svg?style=flat-square
 [downloads-url]: https://github.com/liya3719/node-ts-service-template
