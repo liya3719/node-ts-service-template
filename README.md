@@ -1,8 +1,6 @@
 ### 项目名称
 {{name}}
 
-[![Downloads][downloads-image]][downloads-url]
-
 ### 项目介绍
 
 项目架构基于Typescript、koa2搭建，使得开发应用变得几乎跟java类似，强类型的使用使得我们能更方便的维护应用业务逻辑，编译阶段即可发现潜在的由于类型使用不正确而导致的应用错误
